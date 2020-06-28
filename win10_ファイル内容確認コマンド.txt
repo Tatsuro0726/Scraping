@@ -1,0 +1,1 @@
+certutil -f -encodehex input.txt output.txt
