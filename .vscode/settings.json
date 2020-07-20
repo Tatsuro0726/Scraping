@@ -4,6 +4,8 @@
     "python.linting.pylintEnabled": false,
     "python.linting.pycodestyleEnabled": false,
     "python.linting.flake8Enabled": true,
+    "python.jediEnabled": true,
+    "python.languageServer": "Jedi"
     // "python.autoComplete.extraPaths": [
     //     ""
     // ]
